@@ -1,2 +1,2 @@
-# boladas-r-pidas-de-moz
+# boladas-rapidas-de-moz
 &lt;organization>.github.io
